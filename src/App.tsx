@@ -6,3 +6,8 @@ export default function App() {
     </div>
   );
 }
+import Router from "./router";
+
+export default function App() {
+  return <Router />;
+}
